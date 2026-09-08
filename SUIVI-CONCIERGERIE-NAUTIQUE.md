@@ -6,6 +6,10 @@ Objectif à 1 an : 10-15 clients réguliers, environ 35 000 €/an de CA, seule 
 
 Statut assumé par Nadia (08/09/2026) : c'est actuellement un **test** pour compléter le revenu du coaching. Incertitude assumée sur laquelle des deux activités sera la principale à terme — pas de hiérarchie rigide à poser entre les deux projets.
 
+## Notes brutes de la semaine (à trier)
+
+Nadia peut écrire ici, à tout moment de la semaine, une idée, une action, un blocage ou une info brute, sans forme particulière. Chaque revue hebdomadaire lit cette section, intègre son contenu au Journal/Jalons si pertinent, puis la vide.
+
 ## État des lieux
 
 ### Piste explorée activement
