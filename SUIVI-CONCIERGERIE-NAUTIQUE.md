@@ -42,6 +42,25 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-09-13 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Aucun retour confirmé sur la relance du client du devis 1 050 € TTC ni sur la formalisation de l'offre courtage.
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : réponse du client du devis du 07/09 (sortie voilier 12 personnes) ; confirmation sur la rédaction de l'offre courtage 1 page.
+
+**Regard devant** (pondéré par l'arbitrage ~40%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia) :
+1. Relancer le client du devis 1 050 € TTC si pas encore fait — c'est le signal le plus chaud actuellement.
+2. Finaliser/envoyer l'offre courtage 1 page si pas encore fait, pour pouvoir la tester sur une 2e cible.
+3. Identifier concrètement une 2e cible (entreprise ou école de voile) à contacter.
+
+**Mini sprint 7 jours** :
+- Réponse obtenue (ou relance effectuée) auprès du client du devis du 07/09.
+- Offre courtage 1 page finalisée.
+- 1 nouvelle cible identifiée et premier contact pris.
+
 ### 2026-09-08 — Revue initiale
 
 **Ménage** : Mise en place du suivi. État des lieux ci-dessus compilé à partir de l'audit des fichiers business existants (offre Accompagnement Plaisance, étude de marché, CGV, outils nettoyage/abonnement) et des réponses de Nadia du 08/09/2026.
@@ -63,6 +82,14 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Idées de contenu
 
+### Semaine du 08/09/2026
+
 - Post court présentant l'étude de marché (10 696 bateaux zone Martigues-Marseille, zone prioritaire Côte Bleue) pour crédibiliser l'offre auprès d'entreprises.
 - Retour d'expérience (anonymisé) sur la sortie voilier 12 personnes une fois réalisée, à visée B2B.
 - Post expliquant le principe de mise en relation/courtage pour des sorties d'entreprise en voilier.
+
+### Semaine du 13/09/2026
+
+- Post "pourquoi une sortie voilier d'entreprise plutôt qu'un séminaire classique" (angle teambuilding maritime).
+- Court post pédagogique expliquant le principe de commission/courtage, destiné à des écoles de voile partenaires potentielles.
+- Visuel simple reprenant les chiffres de l'étude de marché (zone Côte Bleue, ~556 bateaux atteignables) pour amorcer la prospection B2B.
