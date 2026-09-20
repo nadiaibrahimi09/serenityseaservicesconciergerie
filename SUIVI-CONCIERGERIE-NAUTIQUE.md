@@ -42,6 +42,24 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-09-20 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Toujours aucun retour confirmé sur la relance du client du devis 1 050 € TTC (07/09) ni sur la rédaction de l'offre courtage — troisième semaine consécutive sans confirmation.
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : réponse du client du devis du 07/09, maintenant âgé de 2 semaines ; confirmation sur l'offre courtage.
+
+**Regard devant** (pondéré par l'arbitrage ~40%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — resserré sur 1 priorité cette semaine) :
+1. Priorité unique : obtenir une réponse claire (oui/non) du client du devis 1 050 € — après 2 semaines de silence, une relance décisive vaut mieux qu'une 3e semaine d'attente passive.
+2. Si temps disponible : finaliser l'offre courtage 1 page si pas encore fait, pour pouvoir la tester sur une 2e cible dès que la réponse du premier client arrive.
+3. Identification d'une 2e cible : en pause cette semaine, pas urgent tant que le point 1 n'est pas tranché.
+
+**Mini sprint 7 jours** :
+- Réponse obtenue (positive ou négative) du client du devis du 07/09.
+- Offre courtage 1 page finalisée si possible.
+
 ### 2026-09-13 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Aucun retour confirmé sur la relance du client du devis 1 050 € TTC ni sur la formalisation de l'offre courtage.
@@ -93,3 +111,9 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Post "pourquoi une sortie voilier d'entreprise plutôt qu'un séminaire classique" (angle teambuilding maritime).
 - Court post pédagogique expliquant le principe de commission/courtage, destiné à des écoles de voile partenaires potentielles.
 - Visuel simple reprenant les chiffres de l'étude de marché (zone Côte Bleue, ~556 bateaux atteignables) pour amorcer la prospection B2B.
+
+### Semaine du 20/09/2026
+
+- Post sur "comment choisir la bonne sortie voilier pour un teambuilding d'entreprise" (angle pratique, critères).
+- Court retour sur le devis du 07/09 une fois la réponse obtenue, formulé de façon constructive quelle que soit l'issue.
+- Post pédagogique approfondissant le modèle courtage/commission, destiné aux écoles de voile partenaires potentielles.
