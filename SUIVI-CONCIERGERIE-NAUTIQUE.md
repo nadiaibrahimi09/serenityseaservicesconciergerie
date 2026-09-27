@@ -42,6 +42,25 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-09-27 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Le client du devis du 07/09 n'a toujours pas répondu — 3 semaines de silence désormais.
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : réponse du client du devis du 07/09 (3 semaines de silence) ; confirmation sur l'offre courtage.
+
+**Regard devant** (pondéré par l'arbitrage ~45%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — changement d'approche cette semaine, voir contexte) :
+1. Priorité : identifier et prendre contact avec une 2e cible fraîche (entreprise ou école de voile) — après 3 semaines de silence, le lead du devis du 07/09 est probablement froid ; mieux vaut ouvrir un nouveau canal que d'attendre une 4e semaine sur le même dossier.
+2. Envoyer une relance de clôture au client du devis du 07/09 — pas une nouvelle attente indéfinie, juste solder ce dossier (oui ou non).
+3. Finaliser l'offre courtage 1 page si pas encore fait, pour pouvoir la présenter directement à la 2e cible dès le premier contact.
+
+**Mini sprint 7 jours** :
+- 1 nouvelle cible identifiée et premier contact pris.
+- Relance de clôture envoyée au client du devis du 07/09.
+- Offre courtage 1 page finalisée si possible.
+
 ### 2026-09-20 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Toujours aucun retour confirmé sur la relance du client du devis 1 050 € TTC (07/09) ni sur la rédaction de l'offre courtage — troisième semaine consécutive sans confirmation.
@@ -99,6 +118,12 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Identifier une 2e cible potentielle (entreprise ou école de voile) à contacter la semaine suivante.
 
 ## Idées de contenu
+
+### Semaine du 27/09/2026
+
+- Post pédagogique sur "pourquoi une réponse rapide (même négative) aide à avancer plus vite en B2B" — angle prospection assumée, utile pour normaliser les relances de clôture.
+- Post présentant un profil-type de cible pour la prospection (entreprise ou école de voile) pour clarifier qui contacter en priorité.
+- Court post/visuel rappelant l'offre "Accompagnement Plaisance" avec un exemple de tarif de référence (devis type sortie voilier), pour convertir un futur prospect plus vite.
 
 ### Semaine du 08/09/2026
 
