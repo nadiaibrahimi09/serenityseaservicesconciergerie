@@ -42,6 +42,24 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-10-04 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 5e semaine consécutive. Le client du devis du 07/09 n'a toujours pas répondu — 4 semaines de silence désormais, considéré comme un lead froid.
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : identification d'une 2e cible fraîche (reconduite depuis le 27/09, non confirmée).
+
+**Regard devant** (pondéré par l'arbitrage ~40%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — resserré sur une seule priorité) :
+1. Priorité unique : identifier et contacter une 2e cible fraîche (entreprise ou école de voile) — le dossier du devis du 07/09 est désormais classé sans suite, pas la peine de le relancer une 5e fois.
+2. Si l'offre courtage 1 page n'est pas encore finalisée, la boucler pour pouvoir la présenter dès le premier contact.
+3. Devis du 07/09 : classé sans suite, pas d'action supplémentaire prévue sauf si le client revient de lui-même.
+
+**Mini sprint 7 jours** :
+- 1 nouvelle cible identifiée et premier contact pris.
+- Offre courtage 1 page finalisée si pas déjà fait.
+
 ### 2026-09-27 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide). Le client du devis du 07/09 n'a toujours pas répondu — 3 semaines de silence désormais.
@@ -118,6 +136,12 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Identifier une 2e cible potentielle (entreprise ou école de voile) à contacter la semaine suivante.
 
 ## Idées de contenu
+
+### Semaine du 04/10/2026
+
+- Post honnête sur "ce qu'on apprend d'un lead qui ne répond pas" (angle prospection B2B assumée).
+- Post présentant concrètement le principe de courtage/commission, pensé pour une cible fraîche (école de voile ou entreprise).
+- Visuel rappelant l'offre "Accompagnement Plaisance" avec le tarif de référence du devis type, pour accélérer la conversion d'un nouveau contact.
 
 ### Semaine du 27/09/2026
 
