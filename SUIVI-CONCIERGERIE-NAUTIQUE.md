@@ -42,6 +42,24 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-10-11 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 6e semaine consécutive. Pas de nouvelle cible confirmée (action reconduite depuis le 27/09, 3e semaine consécutive sans confirmation).
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : identification et contact d'une 2e cible fraîche.
+
+**Regard devant** (pondéré par l'arbitrage ~35%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — priorité unique reconduite) :
+1. Priorité unique : identifier et contacter une 2e cible fraîche (entreprise ou école de voile) — le dossier du devis du 07/09 reste classé sans suite.
+2. Si l'offre courtage 1 page n'est pas encore finalisée, la boucler pour pouvoir la présenter dès le premier contact.
+3. Devis du 07/09 : classé sans suite, pas d'action supplémentaire prévue sauf si le client revient de lui-même.
+
+**Mini sprint 7 jours** :
+- 1 nouvelle cible identifiée et premier contact pris.
+- Offre courtage 1 page finalisée si pas déjà fait.
+
 ### 2026-10-04 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 5e semaine consécutive. Le client du devis du 07/09 n'a toujours pas répondu — 4 semaines de silence désormais, considéré comme un lead froid.
@@ -136,6 +154,12 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Identifier une 2e cible potentielle (entreprise ou école de voile) à contacter la semaine suivante.
 
 ## Idées de contenu
+
+### Semaine du 11/10/2026
+
+- Post sur "pourquoi cibler les écoles de voile en priorité" pour la prospection B2B (angle pratique, critères de sélection).
+- Post rappelant le principe de courtage/commission avec un exemple chiffré simple (à partir du devis type à 1 050 €).
+- Post sur la saisonnalité du nautisme et comment anticiper la prospection B2B pour la saison suivante (angle stratégique, sans détails internes).
 
 ### Semaine du 04/10/2026
 
