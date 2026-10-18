@@ -42,6 +42,24 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-10-18 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 7e semaine consécutive. Pas de nouvelle cible confirmée (action reconduite depuis le 27/09, 4e semaine consécutive sans confirmation).
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : identification et contact d'une 2e cible fraîche.
+
+**Regard devant** (pondéré par l'arbitrage ~30%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — priorité unique reconduite, temps réduit cette semaine au profit de la révision kinésio) :
+1. Priorité unique : identifier et contacter une 2e cible fraîche (entreprise ou école de voile) — le dossier du devis du 07/09 reste classé sans suite.
+2. Si l'offre courtage 1 page n'est pas encore finalisée, la boucler pour pouvoir la présenter dès le premier contact.
+3. Devis du 07/09 : classé sans suite, pas d'action supplémentaire prévue sauf si le client revient de lui-même.
+
+**Mini sprint 7 jours** :
+- 1 nouvelle cible identifiée et premier contact pris si le temps disponible le permet.
+- Offre courtage 1 page finalisée si pas déjà fait.
+
 ### 2026-10-11 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 6e semaine consécutive. Pas de nouvelle cible confirmée (action reconduite depuis le 27/09, 3e semaine consécutive sans confirmation).
@@ -154,6 +172,12 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Identifier une 2e cible potentielle (entreprise ou école de voile) à contacter la semaine suivante.
 
 ## Idées de contenu
+
+### Semaine du 18/10/2026
+
+- Post sur "comment présenter une offre de sortie voilier d'entreprise en 2 minutes" (pitch court destiné à un premier contact).
+- Post rappelant le tarif de référence (devis type 1 050 € TTC, 12 personnes) pour donner un repère concret à une cible fraîche.
+- Post sur la différence entre courtage/mise en relation et prestataire direct, pour clarifier le positionnement auprès d'écoles de voile partenaires potentielles.
 
 ### Semaine du 11/10/2026
 
