@@ -42,6 +42,24 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Journal des revues hebdomadaires
 
+### 2026-11-01 — Revue hebdo
+
+**Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 9e semaine consécutive. Pas de nouvelle cible confirmée (action reconduite depuis le 27/09, 6e semaine consécutive sans confirmation).
+
+**Point** :
+- Fait : rien de confirmé cette semaine faute de retour de Nadia.
+- Bloqué : aucun blocage signalé.
+- En attente : identification et contact d'une 2e cible fraîche.
+
+**Regard devant** (pondéré par l'arbitrage ~20%, voir ARBITRAGE-HEBDO.md dans le repo planningentreprisesNadia — priorité unique reconduite, temps réduit au maximum au profit de la révision kinésio) :
+1. Priorité unique : identifier et contacter une 2e cible fraîche (entreprise ou école de voile) — le dossier du devis du 07/09 reste classé sans suite.
+2. Si l'offre courtage 1 page n'est pas encore finalisée, la boucler pour pouvoir la présenter dès le premier contact.
+3. Devis du 07/09 : classé sans suite, pas d'action supplémentaire prévue sauf si le client revient de lui-même.
+
+**Mini sprint 7 jours** :
+- 1 nouvelle cible identifiée et premier contact pris si le temps disponible le permet.
+- Offre courtage 1 page finalisée si pas déjà fait.
+
 ### 2026-10-25 — Revue hebdo
 
 **Ménage** : aucune note brute ajoutée par Nadia cette semaine (section vide) — 8e semaine consécutive. Pas de nouvelle cible confirmée (action reconduite depuis le 27/09, 5e semaine consécutive sans confirmation).
@@ -191,6 +209,12 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 
 ## Idées de contenu
 
+### Semaine du 01/11/2026
+
+- Post sur « les critères pour choisir une école de voile partenaire » (angle pratique, utile pour structurer la prospection B2B).
+- Post reprenant le devis type (1 050 €, 12 personnes) comme repère tarifaire simple pour une cible fraîche.
+- Post sur l'anticipation de la saison 2027 côté entreprises (angle calendrier, sans détails internes).
+
 ### Semaine du 25/10/2026
 
 - Post sur « ce qui distingue une sortie voilier d'entreprise réussie » (critères concrets, pour rassurer une cible fraîche).
@@ -220,12 +244,6 @@ Un document interne de mai 2026 signale que le SIRET utilisé sur les documents 
 - Post pédagogique sur "pourquoi une réponse rapide (même négative) aide à avancer plus vite en B2B" — angle prospection assumée, utile pour normaliser les relances de clôture.
 - Post présentant un profil-type de cible pour la prospection (entreprise ou école de voile) pour clarifier qui contacter en priorité.
 - Court post/visuel rappelant l'offre "Accompagnement Plaisance" avec un exemple de tarif de référence (devis type sortie voilier), pour convertir un futur prospect plus vite.
-
-### Semaine du 08/09/2026
-
-- Post court présentant l'étude de marché (10 696 bateaux zone Martigues-Marseille, zone prioritaire Côte Bleue) pour crédibiliser l'offre auprès d'entreprises.
-- Retour d'expérience (anonymisé) sur la sortie voilier 12 personnes une fois réalisée, à visée B2B.
-- Post expliquant le principe de mise en relation/courtage pour des sorties d'entreprise en voilier.
 
 ### Semaine du 13/09/2026
 
